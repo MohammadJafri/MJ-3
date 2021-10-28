@@ -1,0 +1,49 @@
+body
+{
+    background-size: cover;
+}
+
+h3
+{
+  color: white;
+  text-align: center;
+  font-family: 'Calligraffitti', cursive;
+  font-size: 20px;
+}
+
+#div
+{
+    width: 100%;
+}
+
+h5
+{
+  color: black;
+  text-align: center;
+  font-family: 'Calligraffitti', cursive;
+}
+
+h4
+{
+    color: antiquewhite;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#copy_right_footer
+{
+    margin: 10px;
+    position: fixed;
+    width: 100%;
+    color: black;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+}
